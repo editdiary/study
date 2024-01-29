@@ -1,0 +1,5 @@
+### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
