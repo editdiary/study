@@ -1,2 +1,0 @@
-model_checkpoint_path: "dmlp_trained.ckpt"
-all_model_checkpoint_paths: "dmlp_trained.ckpt"
