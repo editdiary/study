@@ -13,3 +13,6 @@ __pycache__
 
 .tar
 *.tar
+
+.h5
+*.h5
