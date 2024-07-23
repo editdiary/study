@@ -16,3 +16,6 @@ __pycache__
 
 .h5
 *.h5
+
+.weights
+*.weights
