@@ -19,3 +19,9 @@ __pycache__
 
 .weights
 *.weights
+
+.mp4
+*.mp4
+
+.pb
+*.pb
