@@ -26,6 +26,9 @@ __pycache__
 .pb
 *.pb
 
+# deep learning weights
+.cfg
+*.cfg
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
